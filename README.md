@@ -1,6 +1,5 @@
 - 👋 Oi, eu sou Wagner Pereira @wagnergunz
-- 👀 Eu estou aprendendo a mecher na plataforma
-- 🌱 Estou estudando no momento Git.
+- 👀 Estou estudando no JAVA.
 - 💞️ Estou a disposto a colabora com os termos e ajudar a comunidade.
 - 📫 Me encontra no Email galaxdia@gmail.com
 
